@@ -1,0 +1,23 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Starting with NodeJS",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchowdappa/nodejs.git"
+  },
+  "dependencies": {
+    "fs": "*",
+    "mathjs": "*"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mchowdappa/nodejs/issues"
+  },
+  "homepage": "https://github.com/mchowdappa/nodejs#readme"
+}
